@@ -9,4 +9,4 @@
   
   3. <a href='https://buildozer.readthedocs.io/en/latest/'>Buildozer Documentation</a>
 
-<img src='https://www.olcbd.net/wp-content/uploads/2020/01/Learn-to-Make-Beautiful-Mobile-Apps-in-Python-KivyMD-800x445.jpg'>
+<img src='https://www.olcbd.net/wp-content/uploads/2020/01/Learn-to-Make-Beautiful-Mobile-Apps-in-Python-KivyMD-800x445.jpg' width='50%'>
