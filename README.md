@@ -12,6 +12,6 @@
 <img src='https://www.olcbd.net/wp-content/uploads/2020/01/Learn-to-Make-Beautiful-Mobile-Apps-in-Python-KivyMD-800x445.jpg' width='50%'>
 
 ### Repos : 
-   1. https://github.com/kivy/kivy
-   2. https://github.com/kivymd/KivyMD
-   3. https://github.com/kivy/buildozer
+   1.Kivy:       https://github.com/kivy/kivy
+   2.KivyMD:     https://github.com/kivymd/KivyMD
+   3.Buildozer:  https://github.com/kivy/buildozer
